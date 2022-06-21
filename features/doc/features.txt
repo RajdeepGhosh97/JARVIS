@@ -1,0 +1,16 @@
+1. google automation(done)
+2. youtube automation(done)
+3. email automation
+4. whatapp automation
+5. weather forcast
+6. calender
+7. Q&A(done)
+8. google map automation
+9. desktop automation
+10.Daily schedule telling
+11.facebook automation
+12.face recognition(done)
+13.file locator
+14.internet connection checking
+15.news
+
